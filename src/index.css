@@ -1,7 +1,7 @@
 @import "~animate.css/animate.css";
 body {
   margin: 0;
-  font-family: 'Roboto', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Arial, 'Times New Roman', Times, serif;
   color: #767270;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -15,25 +15,25 @@ div{
 
 h1{
   font-size: 25pt;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 500;
   margin: 0;
 }
 h2{
   font-size: 22pt;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 500;
   margin: 0;
 }
 h3{
   font-size: 16pt;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 500;
   margin: 0;
 }
 h4{
   font-size: 12pt;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 500;
   margin: 0;
 }
@@ -67,7 +67,7 @@ span{
   color: white;
   margin-bottom: 20px;
   display: block;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 300;
   font-size: 12pt;
   line-height: 17pt;
@@ -104,7 +104,7 @@ span{
   cursor: pointer;
   text-transform: uppercase;
   font-size: 15px;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 400;
 }
 
@@ -184,7 +184,7 @@ span{
   cursor:auto;
   text-transform:initial;
   font-size: 15px;
-  font-family: 'Roboto';
+  font-family: Arial;
   font-weight: 400;
 }
 
