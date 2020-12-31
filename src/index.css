@@ -269,12 +269,15 @@ span{
 .ReactModalPortal .ReactModal__Overlay--before-close {
   opacity: 0;
 }
+.ReactModal__Body--open {
+  overflow: hidden;
+}
 
 .root { position:absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 52vw;
+  height: inherit;
   overflow: hidden;
 }
 .overlay { position:absolute;
@@ -285,6 +288,7 @@ span{
   /* check this 2 lines v */
   height: 100%;
   overflow: auto; 
+  width: 50vw;
 }
 
 .imagenModal{
