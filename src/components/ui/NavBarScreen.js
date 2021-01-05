@@ -7,7 +7,7 @@ export const NavBarScreen = () => {
             <li><Link to="/" >Inicio</Link></li>
             <li><Link to="/conocimientos" > Conocimientos</Link></li>
             <li><Link to="/proyectos" > Proyectos</Link></li>
-            <li>Contacto</li>
+            
         </ul>
     )
 }

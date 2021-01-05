@@ -34,6 +34,7 @@ export const Mod3 = () => {
                 <br/>El STAFF tiene un sisema para corroborar vuelos realizados, ver y administrar usuarios, noticias, aeronaves.
             </p>
             <p>Ejemplo en video del sistema:</p>
+            <iframe width="560" height="315" title="ATA" src="https://www.youtube.com/embed/I_KP_PFIsgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p></p>
 
             

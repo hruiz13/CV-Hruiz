@@ -30,6 +30,7 @@ export const Mod1 = () => {
                 <br/>El contador se podia resetear.
             </p>
             <p>Ejemplo en video del sistema:</p>
+            <iframe width="560" height="315" title="ExamenAerocivil" src="https://www.youtube.com/embed/pWYi3tyZYrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p></p>
             
         </div>

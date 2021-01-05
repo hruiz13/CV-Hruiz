@@ -33,6 +33,7 @@ export const Mod2 = () => {
                 <br/>Se generaba un archivo para imprimir y entregar en despacho de vuelo.
             </p>
             <p>Ejemplo en video del sistema:</p>
+            <iframe width="560" height="315" title="AAAPesoyBalance" src="https://www.youtube.com/embed/FLapgdf9iCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p></p>
 
             

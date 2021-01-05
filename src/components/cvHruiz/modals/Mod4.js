@@ -52,6 +52,7 @@ export const Mod4 = () => {
                 <br/>El servidor tambien le monte un sistema RAID para el manejo de todos los archivos de la empresa.
             </p>
             <p>Ejemplo en video del sistema:</p>
+            <iframe width="560" height="315" title="arteLaser" src="https://www.youtube.com/embed/QToqOxNv2Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p></p>
 
             
