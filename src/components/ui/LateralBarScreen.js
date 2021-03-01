@@ -17,8 +17,8 @@ export const LateralBarScreen = () => {
                     <FontAwesomeIcon icon={faUser} size="lg" color="white" />
                 </div>
                 <div className="info">
-                Soy una persona autodidacta, recursiva por lo que suelo buscar como realizar diferentes actividades, proyectos, apoyandome en algun equipo de trabajo, o amigos con conocimientos. 
-                <br/>Soy puntual, visionario y emprendedor.
+                    Soy una persona autodidacta, recursiva por lo que suelo buscar como realizar diferentes actividades, proyectos, apoyandome en algun equipo de trabajo, o amigos con conocimientos.
+                <br />Soy puntual, visionario y emprendedor.
                 </div>
             </div>
             <div className="col">
@@ -67,6 +67,15 @@ export const LateralBarScreen = () => {
                             Javascript
                         </li>
                         <li>
+                            Nodejs
+                        </li>
+                        <li>
+                            React
+                        </li>
+                        <li>
+                            Reux
+                        </li>
+                        <li>
                             PHP
                         </li>
                         <li>
@@ -75,17 +84,11 @@ export const LateralBarScreen = () => {
                         <li>
                             Laravel
                         </li>
-                        <li>
-                            React
-                        </li>
-                        <li>
-                            Reux
-                        </li>
                     </ul>
 
                 </div>
             </div>
-            
+
         </div>
     )
 }
