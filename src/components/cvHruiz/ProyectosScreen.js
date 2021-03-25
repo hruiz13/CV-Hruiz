@@ -134,6 +134,26 @@ export const ProyectosScreen = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="item-imagen">
+                            <img src="./imagenes/coun1.PNG" className="laImagen animate__animated" alt="weather app" name="8" onClick={handleClick} />
+                            <div className="sobre">
+                                <div className="texto-interno animate__animated">
+                                    country App
+                                <br /><br /><span>Aplicacion de actividades en paises</span>
+                                    <br />React
+                                </div>
+                            </div>
+                        </div>
+                        <div className="item-imagen">
+                            <img src="./imagenes/bn1.PNG" className="laImagen animate__animated" alt="weather app" name="8" onClick={handleClick} />
+                            <div className="sobre">
+                                <div className="texto-interno animate__animated">
+                                    Batalla Naval App
+                                <br /><br /><span>Juego en linea para 2</span>
+                                    <br />React
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
