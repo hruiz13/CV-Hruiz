@@ -10,6 +10,8 @@ import { Mod5 } from './modals/Mod5';
 import { Mod6 } from './modals/Mod6';
 import { Mod7 } from './modals/Mod7';
 import { Mod8 } from './modals/Mod8';
+import { Mod9 } from './modals/Mod9';
+import { Mod10 } from './modals/Mod10';
 
 const customStyles = {
     content: {
@@ -135,22 +137,22 @@ export const ProyectosScreen = () => {
                             </div>
                         </div>
                         <div className="item-imagen">
-                            <img src="./imagenes/coun1.PNG" className="laImagen animate__animated" alt="weather app" name="8" onClick={handleClick} />
+                            <img src="./imagenes/coun1.PNG" className="laImagen animate__animated" alt="weather app" name="9" onClick={handleClick} />
                             <div className="sobre">
                                 <div className="texto-interno animate__animated">
                                     country App
                                 <br /><br /><span>Aplicacion de actividades en paises</span>
-                                    <br />React
+                                    <br />React, Redux, Nodejs, PostgreSQL
                                 </div>
                             </div>
                         </div>
                         <div className="item-imagen">
-                            <img src="./imagenes/bn1.PNG" className="laImagen animate__animated" alt="weather app" name="8" onClick={handleClick} />
+                            <img src="./imagenes/bn1.PNG" className="laImagen animate__animated" alt="weather app" name="10" onClick={handleClick} />
                             <div className="sobre">
                                 <div className="texto-interno animate__animated">
                                     Batalla Naval App
                                 <br /><br /><span>Juego en linea para 2</span>
-                                    <br />React
+                                    <br />React, Nodejs
                                 </div>
                             </div>
                         </div>
@@ -174,6 +176,8 @@ export const ProyectosScreen = () => {
                 {(modalAbierta === "6") && <Mod6 />}
                 {(modalAbierta === "7") && <Mod7 />}
                 {(modalAbierta === "8") && <Mod8 />}
+                {(modalAbierta === "9") && <Mod9 />}
+                {(modalAbierta === "10") && <Mod10 />}
 
             </Modal>
         </div>

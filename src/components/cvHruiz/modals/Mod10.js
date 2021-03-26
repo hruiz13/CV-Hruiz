@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Mod8 = () => {
+export const Mod10 = () => {
     return (
         <div className="root">
             <div className="overlay">

@@ -64,6 +64,9 @@ export const LateralBarScreen = () => {
                             CSS
                         </li>
                         <li>
+                            SASS
+                        </li>
+                        <li>
                             Javascript
                         </li>
                         <li>
@@ -82,7 +85,13 @@ export const LateralBarScreen = () => {
                             MySQL
                         </li>
                         <li>
+                            PostgreSQL
+                        </li>
+                        <li>
                             Laravel
+                        </li>
+                        <li>
+                            Sockets-io
                         </li>
                     </ul>
 
