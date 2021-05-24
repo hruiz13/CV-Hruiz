@@ -1,11 +1,13 @@
-# Aplicacion creada con REACT
+# Personal CV
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project created with React, with some examples of projects that I have done over the last few years.
 
 ## Resumen
 
-Este es el proceso de la creacion de mi pagina web que es el CV actual a 29 de dic de 2020
+En este proyecto creado con React muestro algunos ejemplos de proyectos que he realizado en los ultimos años.
 
 
-**Nota: Esto es para mostrar como se realizo y que se tiene el conocimiento de react.**
+**REACT / REDUX / NODEJS / EXPRESS / SASS / CSS / MySQL / POSTGRESS / JAVASCRIPT / SOCKETS-IO **
+
+Hector Ruiz
 
