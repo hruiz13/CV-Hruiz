@@ -1,24 +1,29 @@
 #root{
     display: flex;
     margin-top: 20px;
+    width: 90%;
     justify-content: center;
 }
 
 .contenedor{
-    width: 80%;
-    display: flex;
-    flex-direction: wrap;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-column-gap: 20px;
+    //flex-direction: wrap;
 }
 
-@media (max-width: 1000px) {
-    .contenedor{
+@media (max-width: 990px) {
+    #root{
+        margin-top: 0px;
         width: 100%;
+    }
+    .contenedor{
+        grid-template-columns: 100%;
+        grid-auto-flow: row;
     }
 }
 
 #mainC{
-    width: 60%;
     display: flex;
     flex-direction: column;
 }
