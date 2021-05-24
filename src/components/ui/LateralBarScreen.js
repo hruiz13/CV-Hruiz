@@ -67,16 +67,19 @@ export const LateralBarScreen = () => {
                             SASS
                         </li>
                         <li>
-                            Javascript
+                            LESS
                         </li>
                         <li>
-                            Nodejs
+                            Javascript
                         </li>
                         <li>
                             React
                         </li>
                         <li>
-                            Reux
+                            Redux
+                        </li>
+                        <li>
+                            Nodejs
                         </li>
                         <li>
                             PHP
