@@ -1,0 +1,47 @@
+.icono{
+    display: flex;
+    justify-content: center;
+    width: 25%;
+    margin-top: 8px;
+}
+
+.pages{
+    width: 85%;
+    padding-right: 0.75rem;
+    padding-bottom: 1.5rem;
+}
+
+.titulo{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.item{
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+  
+    border-bottom: 1px solid $gray;
+  }
+  
+  .item ul{
+    text-align: left;
+    margin: 1px;  
+    padding-inline-start: 10px;
+  }
+  
+  .item li{
+    list-style-type:square;
+    display:list-item;
+    margin: 10px;
+    cursor:auto;
+    text-transform:initial;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: 400;
+  }
+  
+  .item-final{
+    border-bottom: none;
+  }

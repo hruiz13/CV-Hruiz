@@ -12,11 +12,13 @@ export const cvHruizScreen = () => {
                 <div className="seccion">
                     <NavBarScreen />
                 </div>
-                <div className="seccion">
-                    <EducacionScreen />
-                </div>
-                <div className="seccion">
-                    <TrabajoScreen />
+                <div>
+                    <div className="seccion">
+                        <EducacionScreen />
+                    </div>
+                    <div className="seccion">
+                        <TrabajoScreen />
+                    </div>
                 </div>
 
 
