@@ -12,7 +12,7 @@ export const ConocimientosScreen = () => {
                 <div className="seccion">
                     <NavBarScreen />
                 </div>
-                <div className="seccion">
+                <div className="seccion  animate__animated animate__fadeIn">
                     <HabilidadesScreen />
                 </div>
                 <div className="seccion">

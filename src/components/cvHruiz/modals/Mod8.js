@@ -4,8 +4,8 @@ export const Mod8 = () => {
     return (
         <div className="root">
             <div className="overlay">
-                <h1>Calendar</h1>
-                <p>React App de calendario</p>
+                <h1>Gif</h1>
+                <p>React App de Gifs</p>
                 <img src="./imagenes/gif1.PNG" className="imagenModal" alt="calendario" />
                 <p>Tecnologia utilizada:</p>
                 <ul>

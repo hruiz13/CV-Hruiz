@@ -13,7 +13,7 @@ export const cvHruizScreen = () => {
                     <NavBarScreen />
                 </div>
                 <div>
-                    <div className="seccion">
+                    <div className="seccion animate__animated animate__fadeIn">
                         <EducacionScreen />
                     </div>
                     <div className="seccion">
