@@ -18,7 +18,7 @@ export const LateralBarScreen = () => {
                 </div>
                 <div className="info">
                     Soy una persona autodidacta, recursiva por lo que suelo buscar como realizar diferentes actividades, proyectos, apoyandome en algun equipo de trabajo, o amigos con conocimientos.
-                <br />Soy puntual, visionario y emprendedor.
+                    <br />Soy puntual, visionario y emprendedor.
                 </div>
             </div>
             <div className="col">
@@ -73,7 +73,13 @@ export const LateralBarScreen = () => {
                             Javascript
                         </li>
                         <li>
+                            Typescript
+                        </li>
+                        <li>
                             React
+                        </li>
+                        <li>
+                            GraphQL
                         </li>
                         <li>
                             Redux
@@ -95,6 +101,12 @@ export const LateralBarScreen = () => {
                         </li>
                         <li>
                             Sockets-io
+                        </li>
+                        <li>
+                            Tachyons
+                        </li>
+                        <li>
+                            VTEX-IO
                         </li>
                     </ul>
 
