@@ -14,11 +14,20 @@ export const TrabajoScreen = () => {
                     <h2>Experiencia de trabajo</h2>
                 </div>
                 <div className="item">
+                    <h3>Alfred</h3>
+                    <span>Feb 2022 - Presente</span>
+                    <p>Senior Frontend developer
+                        <br />Creacion de feautres para el sitio web
+                        <br />Creacion de la app mobile para la compañia.
+                        <br />Optimización de codigo existente y actualización de tecnologia. 
+                    </p>
+                </div>
+                <div className="item">
                     <h3>It Globers</h3>
-                    <span>Jun 2021 - presente</span>
+                    <span>Jun 2021 - Feb 2022</span>
                     <p>Front end developer - Techleader
                         <br />Manejo de ecommerce con VTEX-IO
-                        <br />Lider de proyecto para ecommerce de gran empresa en colombia (cencosud).
+                        <br />Lider de proyecto para ecommerce de gran empresa en colombia (cencosud/Jumbo).
                         <br />Desarrollo, Manejo de repositorio.
                     </p>
                 </div>

@@ -177,6 +177,16 @@ export const ProyectosScreen = () => {
                                 </div>
                         </div>
                     </div>
+                    <div className="item-imagen">
+                        <img src="./imagenes/jumbo.png" className="laImagen animate__animated" alt="Jumbo" name="12" onClick={handleClick} />
+                        <div className="sobre">
+                            <div className="texto-interno animate__animated">
+                                Jumbo Colombia - VTEX-IO
+                                <br /><br /><span>Reconstruccion de la pagina totalmente con tecnologia VTEX-IO</span>
+                                <br />VTEX-IO, React, Redux, html, typescript, GraphQL
+                                </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>

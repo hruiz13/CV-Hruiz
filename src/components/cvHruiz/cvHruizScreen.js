@@ -14,10 +14,10 @@ export const cvHruizScreen = () => {
                 </div>
                 <div>
                     <div className="seccion animate__animated animate__fadeIn">
-                        <EducacionScreen />
-                    </div>
-                    <div className="seccion">
                         <TrabajoScreen />
+                    </div>
+                    <div className="seccion animate__animated animate__fadeIn">
+                        <EducacionScreen />
                     </div>
                 </div>
 

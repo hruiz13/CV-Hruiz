@@ -17,8 +17,7 @@ export const LateralBarScreen = () => {
                     <FontAwesomeIcon icon={faUser} size="lg" color="white" />
                 </div>
                 <div className="info">
-                    Soy una persona autodidacta, recursiva por lo que suelo buscar como realizar diferentes actividades, proyectos, apoyandome en algun equipo de trabajo, o amigos con conocimientos.
-                    <br />Soy puntual, visionario y emprendedor.
+                    Como autodidacta y emprendedor, he logrado realizar con éxito una variedad de proyectos complejos, desde la planificación hasta la implementación. Soy capaz de encontrar soluciones creativas a los desafíos y de trabajar eficazmente en equipo, utilizando mis habilidades de comunicación y liderazgo. Además, mi compromiso con la puntualidad y mi visión estratégica me permiten siempre cumplir con los plazos y alcanzar resultados sobresalientes.
                 </div>
             </div>
             <div className="col">
@@ -107,6 +106,12 @@ export const LateralBarScreen = () => {
                         </li>
                         <li>
                             VTEX-IO
+                        </li>
+                        <li>
+                            Flutter
+                        </li>
+                        <li>
+                            React Native
                         </li>
                     </ul>
 
