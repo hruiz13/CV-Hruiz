@@ -25,7 +25,7 @@ export const LateralBarScreen = () => {
                     <FontAwesomeIcon icon={faPhone} size="lg" color="white" />
                 </div>
                 <div className="info">
-                    <h4>(+57)-300 610 8719</h4>
+                    <h4>(+57)-300 610 ****</h4>
                     <span>celular</span>
 
                 </div>
